@@ -1,2 +1,2 @@
-# HackerRank
+# HackerRank (Java)
 My HackerRank Stuff
